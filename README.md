@@ -1,2 +1,2 @@
 # DARING-CODERS
-As of team DARING CODERS participating in Toycathon 2021
+As a team DARING CODERS participating in Toycathon 2021
